@@ -7,7 +7,9 @@ To realign an over-budget and delayed three-storey construction project by addre
 •	Highlights:
 
 • Audited the entire project for scope creep, vendor inefficiencies, and budget leaks.
+
 • Recommended design changes, vendor replacement, and the addition of an extra floor.
+
 • Introduced a strategy aligned with the triple constraint model (scope, cost, and time).
 
 Impact:
