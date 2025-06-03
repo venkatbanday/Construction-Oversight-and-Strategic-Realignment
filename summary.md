@@ -1,13 +1,17 @@
 # Construction Oversight and Strategic Realignment
 
-**Overview:**  
-A three-storey construction project was behind schedule and over budget.
+Objective:
 
-**Steps Taken:**  
-- Audited project for scope creep and inefficiencies.
-- Proposed vendor and design changes within original constraints.
-- Enforced adherence to time-cost-scope triangle.
+To realign an over-budget and delayed three-storey construction project by addressing design inefficiencies and execution flaws.
 
-**Results:**  
-- Established recovery strategy.
-- Realigned the project with original delivery targets.
+•	Highlights:
+
+• Audited the entire project for scope creep, vendor inefficiencies, and budget leaks.
+
+• Recommended design changes, vendor replacement, and the addition of an extra floor.
+
+• Introduced a strategy aligned with the triple constraint model (scope, cost, and time).
+
+Impact:
+
+Prevented further overruns, restored strategic direction, and enabled timely project recovery.
