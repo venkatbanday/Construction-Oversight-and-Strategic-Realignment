@@ -1,20 +1,18 @@
 # Construction-Oversight-and-Strategic-Realignment
 
-Objective:
+**Construction Project Overview**
 
-To realign an over-budget and delayed three-storey construction project by addressing design inefficiencies and execution flaws.
+The project involves constructing a three-story building. All designs, layouts, permissions, and approvals are in place. Although the project has started, it remains incomplete and has exceeded the original budget.
 
-•	Highlights:
+**Steps Taken**
 
-• Audited the entire project for scope creep, vendor inefficiencies, and budget leaks.
+We conducted a comprehensive analysis of the entire process from start to finish. In our review, we identified several alternatives, including design modifications, the possibility of adding another floor, and changes to contractors. 
 
-• Recommended design changes, vendor replacement, and the addition of an extra floor.
+In construction projects, especially those involving fixed parameters such as time, scope, and cost, it is crucial to avoid modifications during execution to achieve the desired outcomes. The primary reason for the failure of such projects often stems from allowing changes, which in turn affects all key factors: time, cost, and scope.
 
-• Introduced a strategy aligned with the triple constraint model (scope, cost, and time).
+Construction Oversight and Strategic Realignment
 
-Impact:
-
-Prevented further overruns, restored strategic direction, and enabled timely project recovery.
-
-
+Audited an underperforming 3-storey build project for scope creep and budget leaks. 
+Proposed design & vendor revisions aligned with the fixed triple constraint model. 
+Enabled recovery path aligned with delivery timeline.  
 
