@@ -1,18 +1,21 @@
 # Construction-Oversight-and-Strategic-Realignment
 
-**Construction Project Overview**
+Construction Oversight & Strategic Realignment – Fortray Global Services, UK
 
-The project involves constructing a three-story building. All designs, layouts, permissions, and approvals are in place. Although the project has started, it remains incomplete and has exceeded the original budget.
+Overview:
 
-**Steps Taken**
+Led the strategic review and recovery of a delayed and over-budget three-storey construction project by addressing design inefficiencies, vendor underperformance, and execution gaps.
 
-We conducted a comprehensive analysis of the entire process from start to finish. In our review, we identified several alternatives, including design modifications, the possibility of adding another floor, and changes to contractors. 
+Key Achievements:
 
-In construction projects, especially those involving fixed parameters such as time, scope, and cost, it is crucial to avoid modifications during execution to achieve the desired outcomes. The primary reason for the failure of such projects often stems from allowing changes, which in turn affects all key factors: time, cost, and scope.
+• Conducted a full audit of project delivery, identifying scope creep, vendor inefficiencies, and budget leakage.
 
-Construction Oversight and Strategic Realignment
+• Recommended critical changes, including design optimisation, vendor replacement, and the addition of an extra floor to enhance project value.
 
-Audited an underperforming 3-storey build project for scope creep and budget leaks. 
-Proposed design & vendor revisions aligned with the fixed triple constraint model. 
-Enabled recovery path aligned with delivery timeline.  
+• Aligned project delivery with the triple constraint framework (scope, cost, time) to re-establish control and prioritise deliverables.
 
+• Prevented further budget and schedule overruns, restoring strategic direction, stakeholder confidence, and timely recovery.
+
+Keywords:
+
+Project Recovery | Scope Management | Construction Oversight | Triple Constraint | Vendor Management | Budget Control | Project Governance | Risk Mitigation | Stakeholder Alignment | Strategic Realignment
