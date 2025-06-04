@@ -1,17 +1,21 @@
 # Construction Oversight and Strategic Realignment
 
-Objective:
+Construction Oversight & Strategic Realignment – Fortray Global Services, UK
 
-To realign an over-budget and delayed three-storey construction project by addressing design inefficiencies and execution flaws.
+Overview:
 
-•	Highlights:
+Led the strategic review and recovery of a delayed and over-budget three-storey construction project by addressing design inefficiencies, vendor underperformance, and execution gaps.
 
-• Audited the entire project for scope creep, vendor inefficiencies, and budget leaks.
+Key Achievements:
 
-• Recommended design changes, vendor replacement, and the addition of an extra floor.
+• Conducted a full audit of project delivery, identifying scope creep, vendor inefficiencies, and budget leakage.
 
-• Introduced a strategy aligned with the triple constraint model (scope, cost, and time).
+• Recommended critical changes, including design optimisation, vendor replacement, and the addition of an extra floor to enhance project value.
 
-Impact:
+• Aligned project delivery with the triple constraint framework (scope, cost, time) to re-establish control and prioritise deliverables.
 
-Prevented further overruns, restored strategic direction, and enabled timely project recovery.
+• Prevented further budget and schedule overruns, restoring strategic direction, stakeholder confidence, and timely recovery.
+
+Keywords:
+
+Project Recovery | Scope Management | Construction Oversight | Triple Constraint | Vendor Management | Budget Control | Project Governance | Risk Mitigation | Stakeholder Alignment | Strategic Realignment
